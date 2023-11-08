@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.25.6",
+    "@ctrl/ngx-emoji-mart": "^9.2.0",
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
-    "@ctrl/ngx-emoji-mart": "^9.2.0",
     "@hookform/resolvers": "^3.3.2",
     "@livekit/components-react": "^1.3.0",
     "@livekit/components-styles": "^1.0.6",
@@ -30,6 +30,7 @@
     "@tanstack/react-query": "^5.0.5",
     "@uploadthing/react": "^5.7.0",
     "axios": "^1.5.1",
+    "bufferutil": "^4.0.8",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
@@ -48,7 +49,9 @@
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^5.7.2",
+    "utf-8-validate": "^5.0.10",
     "uuid": "^9.0.1",
+    "ws": "^8.14.2",
     "zod": "^3.22.4",
     "zustand": "^4.4.4"
   },
