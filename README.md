@@ -4,6 +4,8 @@
 
 Next.js 13, React, Socket.io, Prisma, Tailwind and MySQL were used in this project
 
+Live: https://discord-clone-production-eeed.up.railway.app/
+
 Features:
 
 - Real-time messaging using Socket.io
